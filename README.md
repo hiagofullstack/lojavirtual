@@ -2,4 +2,5 @@
 Projeto de estudo 
 
 adfad
-Texto alterado no repositóio local.(2)
+Texto alterado no repositóio local.
+Texto alterado via github web
